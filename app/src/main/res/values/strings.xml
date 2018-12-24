@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Explicit Intent</string>
+    <string name="welcome_to_activity_2">Welcome to Activity 2</string>
+    <string name="please_enter_surname">Please enter surname</string>
+    <string name="submit">Submit</string>
+    <string name="message">, Welcome to Activity 2</string>
 </resources>
